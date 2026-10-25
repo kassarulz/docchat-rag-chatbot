@@ -1,0 +1,14 @@
+# .NET
+backend/bin/
+backend/obj/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local secrets and editor files
+.env
+.env.local
+*.user
+.vs/
+.vscode/
